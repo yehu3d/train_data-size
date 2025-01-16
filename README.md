@@ -1,0 +1,2 @@
+train_data_count.py计算指定日期内训练数据大小
+analyze.py处理输出的loss信息并绘图，在jupyterlab中使用时候注意要手动刷新
